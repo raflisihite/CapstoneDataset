@@ -1,0 +1,406 @@
+﻿sex,education,labourstatus,time,value
+Total,Total,Employed,2022,135208.374
+Total,Total,Unemployed,2022,4848.051
+Total,X. No schooling,Employed,2022,2078.034
+Total,X. No schooling,Unemployed,2022,5.546
+Total,0. Early childhood education,Employed,2022,16641.883
+Total,0. Early childhood education,Unemployed,2022,163.783
+Total,1. Primary education,Employed,2022,33918.984
+Total,1. Primary education,Unemployed,2022,497.413
+Total,2. Lower secondary education,Employed,2022,24096.513
+Total,2. Lower secondary education,Unemployed,2022,677.692
+Total,3. Upper secondary education,Employed,2022,41611.168
+Total,3. Upper secondary education,Unemployed,2022,2783.24
+Total,5. Short-cycle tertiary education,Employed,2022,3463.515
+Total,5. Short-cycle tertiary education,Unemployed,2022,150.601
+Total,6. Bachelor's or equivalent level,Employed,2022,12376.864
+Total,6. Bachelor's or equivalent level,Unemployed,2022,560.144
+Total,7. Master's or equivalent level,Employed,2022,960.398
+Total,7. Master's or equivalent level,Unemployed,2022,9.634
+Total,8. Doctoral or equivalent level,Employed,2022,61.018
+Male,Total,Employed,2022,82240.992
+Male,Total,Unemployed,2022,3122.545
+Male,X. No schooling,Employed,2022,917.301
+Male,X. No schooling,Unemployed,2022,3.948
+Male,0. Early childhood education,Employed,2022,8954.107
+Male,0. Early childhood education,Unemployed,2022,121.279
+Male,1. Primary education,Employed,2022,20706.696
+Male,1. Primary education,Unemployed,2022,368.603
+Male,2. Lower secondary education,Employed,2022,15258.272
+Male,2. Lower secondary education,Unemployed,2022,484.046
+Male,3. Upper secondary education,Employed,2022,27802.346
+Male,3. Upper secondary education,Unemployed,2022,1783.567
+Male,5. Short-cycle tertiary education,Employed,2022,1632.38
+Male,5. Short-cycle tertiary education,Unemployed,2022,73.642
+Male,6. Bachelor's or equivalent level,Employed,2022,6345.67
+Male,6. Bachelor's or equivalent level,Unemployed,2022,284.324
+Male,7. Master's or equivalent level,Employed,2022,579.473
+Male,7. Master's or equivalent level,Unemployed,2022,3.137
+Male,8. Doctoral or equivalent level,Employed,2022,44.75
+Female,Total,Employed,2022,52967.382
+Female,Total,Unemployed,2022,1725.506
+Female,X. No schooling,Employed,2022,1160.733
+Female,X. No schooling,Unemployed,2022,1.598
+Female,0. Early childhood education,Employed,2022,7687.776
+Female,0. Early childhood education,Unemployed,2022,42.504
+Female,1. Primary education,Employed,2022,13212.288
+Female,1. Primary education,Unemployed,2022,128.81
+Female,2. Lower secondary education,Employed,2022,8838.242
+Female,2. Lower secondary education,Unemployed,2022,193.646
+Female,3. Upper secondary education,Employed,2022,13808.823
+Female,3. Upper secondary education,Unemployed,2022,999.674
+Female,5. Short-cycle tertiary education,Employed,2022,1831.135
+Female,5. Short-cycle tertiary education,Unemployed,2022,76.959
+Female,6. Bachelor's or equivalent level,Employed,2022,6031.195
+Female,6. Bachelor's or equivalent level,Unemployed,2022,275.82
+Female,7. Master's or equivalent level,Employed,2022,380.925
+Female,7. Master's or equivalent level,Unemployed,2022,6.497
+Female,8. Doctoral or equivalent level,Employed,2022,16.268
+Total,Total,Employed,2021,130518.159
+Total,Total,Unemployed,2021,5193.426
+Total,X. No schooling,Employed,2021,1495.725
+Total,X. No schooling,Unemployed,2021,4.535
+Total,0. Early childhood education,Employed,2021,14065.444
+Total,0. Early childhood education,Unemployed,2021,144.575
+Total,1. Primary education,Employed,2021,33399.087
+Total,1. Primary education,Unemployed,2021,552.821
+Total,2. Lower secondary education,Employed,2021,23688.026
+Total,2. Lower secondary education,Unemployed,2021,762.628
+Total,3. Upper secondary education,Employed,2021,41035.767
+Total,3. Upper secondary education,Unemployed,2021,2948.62
+Total,5. Short-cycle tertiary education,Employed,2021,3520.065
+Total,5. Short-cycle tertiary education,Unemployed,2021,156.512
+Total,6. Bachelor's or equivalent level,Employed,2021,6474.552
+Total,6. Bachelor's or equivalent level,Unemployed,2021,291.163
+Total,7. Master's or equivalent level,Employed,2021,6795.755
+Total,7. Master's or equivalent level,Unemployed,2021,329.133
+Total,8. Doctoral or equivalent level,Employed,2021,43.74
+Total,8. Doctoral or equivalent level,Unemployed,2021,3.441
+Male,Total,Employed,2021,78572.287
+Male,Total,Unemployed,2021,3502.314
+Male,X. No schooling,Employed,2021,608.715
+Male,X. No schooling,Unemployed,2021,3.03
+Male,0. Early childhood education,Employed,2021,7587.273
+Male,0. Early childhood education,Unemployed,2021,111.244
+Male,1. Primary education,Employed,2021,20210.36
+Male,1. Primary education,Unemployed,2021,433.261
+Male,2. Lower secondary education,Employed,2021,14807.943
+Male,2. Lower secondary education,Unemployed,2021,562.048
+Male,3. Upper secondary education,Employed,2021,26944.131
+Male,3. Upper secondary education,Unemployed,2021,1993.77
+Male,5. Short-cycle tertiary education,Employed,2021,1601.119
+Male,5. Short-cycle tertiary education,Unemployed,2021,78.887
+Male,6. Bachelor's or equivalent level,Employed,2021,3261.919
+Male,6. Bachelor's or equivalent level,Unemployed,2021,148.201
+Male,7. Master's or equivalent level,Employed,2021,3523.294
+Male,7. Master's or equivalent level,Unemployed,2021,170.834
+Male,8. Doctoral or equivalent level,Employed,2021,27.535
+Male,8. Doctoral or equivalent level,Unemployed,2021,
+Female,Total,Employed,2021,51945.873
+Female,Total,Unemployed,2021,1691.113
+Female,X. No schooling,Employed,2021,887.011
+Female,X. No schooling,Unemployed,2021,1.505
+Female,0. Early childhood education,Employed,2021,6478.171
+Female,0. Early childhood education,Unemployed,2021,33.331
+Female,1. Primary education,Employed,2021,13188.727
+Female,1. Primary education,Unemployed,2021,119.56
+Female,2. Lower secondary education,Employed,2021,8880.084
+Female,2. Lower secondary education,Unemployed,2021,200.58
+Female,3. Upper secondary education,Employed,2021,14091.636
+Female,3. Upper secondary education,Unemployed,2021,954.85
+Female,5. Short-cycle tertiary education,Employed,2021,1918.946
+Female,5. Short-cycle tertiary education,Unemployed,2021,77.626
+Female,6. Bachelor's or equivalent level,Employed,2021,3212.634
+Female,6. Bachelor's or equivalent level,Unemployed,2021,142.963
+Female,7. Master's or equivalent level,Employed,2021,3272.461
+Female,7. Master's or equivalent level,Unemployed,2021,158.299
+Female,8. Doctoral or equivalent level,Employed,2021,16.205
+Female,8. Doctoral or equivalent level,Unemployed,2021,2.4
+Total,Total,Employed,2020,131187.157
+Total,Total,Unemployed,2020,5829.625
+Total,X. No schooling,Employed,2020,2643.953
+Total,X. No schooling,Unemployed,2020,15.253
+Total,0. Early childhood education,Employed,2020,14430.29
+Total,0. Early childhood education,Unemployed,2020,194.833
+Total,1. Primary education,Employed,2020,33989.118
+Total,1. Primary education,Unemployed,2020,737.368
+Total,2. Lower secondary education,Employed,2020,23788.687
+Total,2. Lower secondary education,Unemployed,2020,968.704
+Total,3. Upper secondary education,Employed,2020,39703.24
+Total,3. Upper secondary education,Unemployed,2020,3112.022
+Total,5. Short-cycle tertiary education,Employed,2020,3619.977
+Total,5. Short-cycle tertiary education,Unemployed,2020,203.232
+Total,6. Bachelor's or equivalent level,Employed,2020,6677.433
+Total,6. Bachelor's or equivalent level,Unemployed,2020,270.474
+Total,7. Master's or equivalent level,Employed,2020,6302.941
+Total,7. Master's or equivalent level,Unemployed,2020,327.741
+Total,8. Doctoral or equivalent level,Employed,2020,31.52
+Male,Total,Employed,2020,79164.611
+Male,Total,Unemployed,2020,3790.672
+Male,X. No schooling,Employed,2020,1126.552
+Male,X. No schooling,Unemployed,2020,7.811
+Male,0. Early childhood education,Employed,2020,7824.453
+Male,0. Early childhood education,Unemployed,2020,137.326
+Male,1. Primary education,Employed,2020,20567.57
+Male,1. Primary education,Unemployed,2020,544.889
+Male,2. Lower secondary education,Employed,2020,15045.83
+Male,2. Lower secondary education,Unemployed,2020,670.881
+Male,3. Upper secondary education,Employed,2020,26129.732
+Male,3. Upper secondary education,Unemployed,2020,2021.766
+Male,5. Short-cycle tertiary education,Employed,2020,1671.832
+Male,5. Short-cycle tertiary education,Unemployed,2020,108.351
+Male,6. Bachelor's or equivalent level,Employed,2020,3464.096
+Male,6. Bachelor's or equivalent level,Unemployed,2020,128.51
+Male,7. Master's or equivalent level,Employed,2020,3311.74
+Male,7. Master's or equivalent level,Unemployed,2020,171.139
+Male,8. Doctoral or equivalent level,Employed,2020,22.808
+Female,Total,Employed,2020,52022.546
+Female,Total,Unemployed,2020,2038.953
+Female,X. No schooling,Employed,2020,1517.401
+Female,X. No schooling,Unemployed,2020,7.442
+Female,0. Early childhood education,Employed,2020,6605.837
+Female,0. Early childhood education,Unemployed,2020,57.507
+Female,1. Primary education,Employed,2020,13421.548
+Female,1. Primary education,Unemployed,2020,192.479
+Female,2. Lower secondary education,Employed,2020,8742.857
+Female,2. Lower secondary education,Unemployed,2020,297.823
+Female,3. Upper secondary education,Employed,2020,13573.508
+Female,3. Upper secondary education,Unemployed,2020,1090.257
+Female,5. Short-cycle tertiary education,Employed,2020,1948.145
+Female,5. Short-cycle tertiary education,Unemployed,2020,94.881
+Female,6. Bachelor's or equivalent level,Employed,2020,3213.337
+Female,6. Bachelor's or equivalent level,Unemployed,2020,141.964
+Female,7. Master's or equivalent level,Employed,2020,2991.202
+Female,7. Master's or equivalent level,Unemployed,2020,156.602
+Female,8. Doctoral or equivalent level,Employed,2020,8.712
+Total,Total,Employed,2019,131895.948
+Total,Total,Unemployed,2019,4911.788
+Total,X. No schooling,Employed,2019,3879.441
+Total,X. No schooling,Unemployed,2019,21.182
+Total,0. Early childhood education,Employed,2019,16833.871
+Total,0. Early childhood education,Unemployed,2019,206.038
+Total,1. Primary education,Employed,2019,32304.367
+Total,1. Primary education,Unemployed,2019,562.583
+Total,2. Lower secondary education,Employed,2019,23638.308
+Total,2. Lower secondary education,Unemployed,2019,799.391
+Total,3. Upper secondary education,Employed,2019,38877.502
+Total,3. Upper secondary education,Unemployed,2019,2573.698
+Total,5. Short-cycle tertiary education,Employed,2019,3622.223
+Total,5. Short-cycle tertiary education,Unemployed,2019,178.418
+Total,6. Bachelor's or equivalent level,Employed,2019,11728.486
+Total,6. Bachelor's or equivalent level,Unemployed,2019,557.027
+Total,7. Master's or equivalent level,Employed,2019,963.55
+Total,7. Master's or equivalent level,Unemployed,2019,12.948
+Total,8. Doctoral or equivalent level,Employed,2019,48.201
+Total,8. Doctoral or equivalent level,Unemployed,2019,
+Male,Total,Employed,2019,79658.931
+Male,Total,Unemployed,2019,3100.988
+Male,X. No schooling,Employed,2019,1724.749
+Male,X. No schooling,Unemployed,2019,12.95
+Male,0. Early childhood education,Employed,2019,9393.695
+Male,0. Early childhood education,Unemployed,2019,148.778
+Male,1. Primary education,Employed,2019,19680.738
+Male,1. Primary education,Unemployed,2019,403.302
+Male,2. Lower secondary education,Employed,2019,14895.626
+Male,2. Lower secondary education,Unemployed,2019,550.875
+Male,3. Upper secondary education,Employed,2019,25621.409
+Male,3. Upper secondary education,Unemployed,2019,1636.241
+Male,5. Short-cycle tertiary education,Employed,2019,1629.992
+Male,5. Short-cycle tertiary education,Unemployed,2019,73.41
+Male,6. Bachelor's or equivalent level,Employed,2019,6082.378
+Male,6. Bachelor's or equivalent level,Unemployed,2019,269.573
+Male,7. Master's or equivalent level,Employed,2019,594.067
+Male,7. Master's or equivalent level,Unemployed,2019,5.356
+Male,8. Doctoral or equivalent level,Employed,2019,36.28
+Male,8. Doctoral or equivalent level,Unemployed,2019,
+Female,Total,Employed,2019,52237.017
+Female,Total,Unemployed,2019,1810.801
+Female,X. No schooling,Employed,2019,2154.693
+Female,X. No schooling,Unemployed,2019,8.233
+Female,0. Early childhood education,Employed,2019,7440.177
+Female,0. Early childhood education,Unemployed,2019,57.26
+Female,1. Primary education,Employed,2019,12623.63
+Female,1. Primary education,Unemployed,2019,159.281
+Female,2. Lower secondary education,Employed,2019,8742.682
+Female,2. Lower secondary education,Unemployed,2019,248.516
+Female,3. Upper secondary education,Employed,2019,13256.094
+Female,3. Upper secondary education,Unemployed,2019,937.457
+Female,5. Short-cycle tertiary education,Employed,2019,1992.231
+Female,5. Short-cycle tertiary education,Unemployed,2019,105.008
+Female,6. Bachelor's or equivalent level,Employed,2019,5646.109
+Female,6. Bachelor's or equivalent level,Unemployed,2019,287.454
+Female,7. Master's or equivalent level,Employed,2019,369.483
+Female,7. Master's or equivalent level,Unemployed,2019,7.593
+Female,8. Doctoral or equivalent level,Employed,2019,11.922
+Female,8. Doctoral or equivalent level,Unemployed,2019,
+Total,Total,Employed,2018,126675.011
+Total,Total,Unemployed,2018,5812.398
+Total,X. No schooling,Employed,2018,2484.486
+Total,X. No schooling,Unemployed,2018,50.828
+Total,0. Early childhood education,Employed,2018,17800.029
+Total,0. Early childhood education,Unemployed,2018,197.969
+Total,1. Primary education,Employed,2018,32049.064
+Total,1. Primary education,Unemployed,2018,700.025
+Total,2. Lower secondary education,Employed,2018,22831.498
+Total,2. Lower secondary education,Unemployed,2018,979.092
+Total,3. Upper secondary education,Employed,2018,36232.717
+Total,3. Upper secondary education,Unemployed,2018,3027.821
+Total,5. Short-cycle tertiary education,Employed,2018,3500.047
+Total,5. Short-cycle tertiary education,Unemployed,2018,219.639
+Total,6. Bachelor's or equivalent level,Employed,2018,10793.349
+Total,6. Bachelor's or equivalent level,Unemployed,2018,624.768
+Total,7. Master's or equivalent level,Employed,2018,939.285
+Total,7. Master's or equivalent level,Unemployed,2018,12.258
+Total,8. Doctoral or equivalent level,Employed,2018,44.538
+Male,Total,Employed,2018,76815.681
+Male,Total,Unemployed,2018,3635.144
+Male,X. No schooling,Employed,2018,1370.946
+Male,X. No schooling,Unemployed,2018,37.37
+Male,0. Early childhood education,Employed,2018,9427.731
+Male,0. Early childhood education,Unemployed,2018,120.789
+Male,1. Primary education,Employed,2018,19511.112
+Male,1. Primary education,Unemployed,2018,497.029
+Male,2. Lower secondary education,Employed,2018,14380.56
+Male,2. Lower secondary education,Unemployed,2018,657.678
+Male,3. Upper secondary education,Employed,2018,24174.194
+Male,3. Upper secondary education,Unemployed,2018,1936.964
+Male,5. Short-cycle tertiary education,Employed,2018,1622.715
+Male,5. Short-cycle tertiary education,Unemployed,2018,95.277
+Male,6. Bachelor's or equivalent level,Employed,2018,5705.483
+Male,6. Bachelor's or equivalent level,Unemployed,2018,286.093
+Male,7. Master's or equivalent level,Employed,2018,590.751
+Male,7. Master's or equivalent level,Unemployed,2018,3.946
+Male,8. Doctoral or equivalent level,Employed,2018,32.191
+Female,Total,Employed,2018,49859.33
+Female,Total,Unemployed,2018,2177.255
+Female,X. No schooling,Employed,2018,1113.54
+Female,X. No schooling,Unemployed,2018,13.458
+Female,0. Early childhood education,Employed,2018,8372.298
+Female,0. Early childhood education,Unemployed,2018,77.181
+Female,1. Primary education,Employed,2018,12537.953
+Female,1. Primary education,Unemployed,2018,202.996
+Female,2. Lower secondary education,Employed,2018,8450.938
+Female,2. Lower secondary education,Unemployed,2018,321.415
+Female,3. Upper secondary education,Employed,2018,12058.523
+Female,3. Upper secondary education,Unemployed,2018,1090.857
+Female,5. Short-cycle tertiary education,Employed,2018,1877.333
+Female,5. Short-cycle tertiary education,Unemployed,2018,124.363
+Female,6. Bachelor's or equivalent level,Employed,2018,5087.866
+Female,6. Bachelor's or equivalent level,Unemployed,2018,338.675
+Female,7. Master's or equivalent level,Employed,2018,348.534
+Female,7. Master's or equivalent level,Unemployed,2018,8.312
+Female,8. Doctoral or equivalent level,Employed,2018,12.347
+Total,Total,Employed,2017,122780.636
+Total,Total,Unemployed,2017,4828.006
+Total,X. No schooling,Employed,2017,1426.325
+Total,X. No schooling,Unemployed,2017,75.53
+Total,0. Early childhood education,Employed,2017,19157.66
+Total,0. Early childhood education,Unemployed,2017,133.572
+Total,1. Primary education,Employed,2017,31196.673
+Total,1. Primary education,Unemployed,2017,596.119
+Total,2. Lower secondary education,Employed,2017,22169.155
+Total,2. Lower secondary education,Unemployed,2017,835.995
+Total,3. Upper secondary education,Employed,2017,33890.221
+Total,3. Upper secondary education,Unemployed,2017,2530.316
+Total,5. Short-cycle tertiary education,Employed,2017,3484.368
+Total,5. Short-cycle tertiary education,Unemployed,2017,188.971
+Total,6. Bachelor's or equivalent level,Employed,2017,10445.416
+Total,6. Bachelor's or equivalent level,Unemployed,2017,463.572
+Total,7. Master's or equivalent level,Employed,2017,958.967
+Total,7. Master's or equivalent level,Unemployed,2017,3.932
+Total,8. Doctoral or equivalent level,Employed,2017,51.853
+Male,Total,Employed,2017,74751.649
+Male,Total,Unemployed,2017,3094.212
+Male,X. No schooling,Employed,2017,1105.318
+Male,X. No schooling,Unemployed,2017,68.627
+Male,0. Early childhood education,Employed,2017,9980.539
+Male,0. Early childhood education,Unemployed,2017,92.229
+Male,1. Primary education,Employed,2017,19105.67
+Male,1. Primary education,Unemployed,2017,420.54
+Male,2. Lower secondary education,Employed,2017,14163.663
+Male,2. Lower secondary education,Unemployed,2017,573.344
+Male,3. Upper secondary education,Employed,2017,22651.453
+Male,3. Upper secondary education,Unemployed,2017,1615.004
+Male,5. Short-cycle tertiary education,Employed,2017,1618.872
+Male,5. Short-cycle tertiary education,Unemployed,2017,91.349
+Male,6. Bachelor's or equivalent level,Employed,2017,5471.964
+Male,6. Bachelor's or equivalent level,Unemployed,2017,231.124
+Male,7. Master's or equivalent level,Employed,2017,615.494
+Male,7. Master's or equivalent level,Unemployed,2017,1.998
+Male,8. Doctoral or equivalent level,Employed,2017,38.679
+Female,Total,Employed,2017,48028.987
+Female,Total,Unemployed,2017,1733.794
+Female,X. No schooling,Employed,2017,321.007
+Female,X. No schooling,Unemployed,2017,6.904
+Female,0. Early childhood education,Employed,2017,9177.122
+Female,0. Early childhood education,Unemployed,2017,41.343
+Female,1. Primary education,Employed,2017,12091.004
+Female,1. Primary education,Unemployed,2017,175.579
+Female,2. Lower secondary education,Employed,2017,8005.492
+Female,2. Lower secondary education,Unemployed,2017,262.652
+Female,3. Upper secondary education,Employed,2017,11238.768
+Female,3. Upper secondary education,Unemployed,2017,915.313
+Female,5. Short-cycle tertiary education,Employed,2017,1865.496
+Female,5. Short-cycle tertiary education,Unemployed,2017,97.622
+Female,6. Bachelor's or equivalent level,Employed,2017,4973.452
+Female,6. Bachelor's or equivalent level,Unemployed,2017,232.449
+Female,7. Master's or equivalent level,Employed,2017,343.473
+Female,7. Master's or equivalent level,Unemployed,2017,1.934
+Female,8. Doctoral or equivalent level,Employed,2017,13.174
+Total,Total,Employed,2016,119529.835
+Total,Total,Unemployed,2016,5371.672
+Total,X. No schooling,Employed,2016,4159.25
+Total,X. No schooling,Unemployed,2016,21.998
+Total,0. Early childhood education,Employed,2016,14894.014
+Total,0. Early childhood education,Unemployed,2016,247.656
+Total,1. Primary education,Employed,2016,32146.304
+Total,1. Primary education,Unemployed,2016,744.821
+Total,2. Lower secondary education,Employed,2016,21419.653
+Total,2. Lower secondary education,Unemployed,2016,949.013
+Total,3. Upper secondary education,Employed,2016,32815.714
+Total,3. Upper secondary education,Unemployed,2016,2674.561
+Total,5. Short-cycle tertiary education,Employed,2016,3309.273
+Total,5. Short-cycle tertiary education,Unemployed,2016,193.155
+Total,6. Bachelor's or equivalent level,Employed,2016,9910.491
+Total,6. Bachelor's or equivalent level,Unemployed,2016,533.193
+Total,7. Master's or equivalent level,Employed,2016,821.059
+Total,7. Master's or equivalent level,Unemployed,2016,7.277
+Total,8. Doctoral or equivalent level,Employed,2016,54.08
+Male,Total,Employed,2016,73330.199
+Male,Total,Unemployed,2016,3514.014
+Male,X. No schooling,Employed,2016,1724.727
+Male,X. No schooling,Unemployed,2016,11.874
+Male,0. Early childhood education,Employed,2016,8399.656
+Male,0. Early childhood education,Unemployed,2016,188.747
+Male,1. Primary education,Employed,2016,19904.029
+Male,1. Primary education,Unemployed,2016,563.103
+Male,2. Lower secondary education,Employed,2016,13853.173
+Male,2. Lower secondary education,Unemployed,2016,658.674
+Male,3. Upper secondary education,Employed,2016,22130.4
+Male,3. Upper secondary education,Unemployed,2016,1748.371
+Male,5. Short-cycle tertiary education,Employed,2016,1492.912
+Male,5. Short-cycle tertiary education,Unemployed,2016,69.388
+Male,6. Bachelor's or equivalent level,Employed,2016,5248.476
+Male,6. Bachelor's or equivalent level,Unemployed,2016,271.164
+Male,7. Master's or equivalent level,Employed,2016,536.714
+Male,7. Master's or equivalent level,Unemployed,2016,
+Male,8. Doctoral or equivalent level,Employed,2016,40.113
+Female,Total,Employed,2016,46199.637
+Female,Total,Unemployed,2016,1857.659
+Female,X. No schooling,Employed,2016,2434.523
+Female,X. No schooling,Unemployed,2016,10.124
+Female,0. Early childhood education,Employed,2016,6494.358
+Female,0. Early childhood education,Unemployed,2016,58.91
+Female,1. Primary education,Employed,2016,12242.275
+Female,1. Primary education,Unemployed,2016,181.719
+Female,2. Lower secondary education,Employed,2016,7566.48
+Female,2. Lower secondary education,Unemployed,2016,290.339
+Female,3. Upper secondary education,Employed,2016,10685.314
+Female,3. Upper secondary education,Unemployed,2016,926.19
+Female,5. Short-cycle tertiary education,Employed,2016,1816.362
+Female,5. Short-cycle tertiary education,Unemployed,2016,123.768
+Female,6. Bachelor's or equivalent level,Employed,2016,4662.015
+Female,6. Bachelor's or equivalent level,Unemployed,2016,262.029
+Female,7. Master's or equivalent level,Employed,2016,284.345
+Female,7. Master's or equivalent level,Unemployed,2016,4.582
+Female,8. Doctoral or equivalent level,Employed,2016,13.967
